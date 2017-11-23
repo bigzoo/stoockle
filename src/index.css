@@ -29,9 +29,9 @@ body {
 
 #word {
 	font-family: Arial;
-	font-size: 6.1em;
-	padding-top: 170px;
-	padding-left: 530px;
+	font-size: 2.1em;
+	padding-top: 70px;
+	padding-left: 150px;
 
 }
 
@@ -58,8 +58,8 @@ body {
 .btn-search {
     cursor:pointer;
     position: relative;
-    left: 460px;
-    top: 60px;
+    left: 1000px;
+    /*top: 60px;*/
     font-family: arial,sans-serif;
     background-color: #F3F3F3;
     border: none;
@@ -72,8 +72,5 @@ body {
 }
 
 .btn-search:hover {
-	color: black;
-}
-.btn-luck:hover {
 	color: black;
 }
